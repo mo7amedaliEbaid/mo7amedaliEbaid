@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1 align="center"> Hey, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Mohamed Ali !</h1>
 
-<!--
-**mo7amedaliEbaid/mo7amedaliEbaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="www.linkedin.com/in/mo7amedebaid">
+  <img align="left" alt="Maugost's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mo7amedaliebaid@gmail.com">
+  <img align="left" alt="Maugost's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<br/>
+<br/>
+
+<h3>🚀 About Me</h3>
+<h4> I'm Mohamed Ali Ebaid from Egypt. I'm a Flutter Developer with two years of experience. I really passionate about flutter framework and what it can do </h4>
+
+
+
+## 📟 GitHub Stats
+<p align="center-left">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mo7amedaliEbaid&show_icons=true&theme=vue" />
+	<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mo7amedaliEbaid&theme=vue" />
+</p>
+
+## 💳 Github Profile Summary Card
+<p align="center-left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mo7amedaliEbaid&theme=vue"/>
+</p>
+
+
+## 💻 Tech Stack
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) 
+
+
+
+
