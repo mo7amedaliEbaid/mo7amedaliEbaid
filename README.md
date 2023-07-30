@@ -8,7 +8,7 @@
 
 
 <br/>
-<br/>
+
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
@@ -16,17 +16,17 @@
 <h4> I'm Mohamed Ali Ebaid from Egypt🇪🇬. I'm a Flutter Developer with two years of experience. I'm really passionate about flutter framework and what it can do </h4>
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
-
+<br/>
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **mo7amedaliebaid@gmail.com**
-
+  <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-ebaid-419042266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoudysleim/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mohamed.ebied.980/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/" height="30" width="40" /></a>
 </p>
-
+<br/>
 ## 📟 GitHub Stats
 <p align="center-left">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mo7amedaliEbaid&show_icons=true&theme=vue" />
