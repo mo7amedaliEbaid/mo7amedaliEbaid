@@ -5,9 +5,7 @@
 
 
 
-<a href="www.linkedin.com/in/mo7amedebaid">
-  <img align="left" alt="Maugost's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+
 
 <br/>
 <br/>
@@ -22,6 +20,12 @@
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **mo7amedaliebaid@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-ebaid-419042266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoudysleim/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohamed.ebied.980/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/" height="30" width="40" /></a>
+</p>
 
 ## 📟 GitHub Stats
 <p align="center-left">
