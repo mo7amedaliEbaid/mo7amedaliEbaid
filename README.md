@@ -21,12 +21,14 @@
 
 - 📫 How to reach me **mo7amedaliebaid@gmail.com**
   <br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-ebaid-419042266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoudysleim/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mohamed.ebied.980/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/" height="30" width="40" /></a>
 </p>
 <br/>
+
 ## 📟 GitHub Stats
 <p align="center-left">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mo7amedaliEbaid&show_icons=true&theme=vue" />
