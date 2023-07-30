@@ -34,6 +34,7 @@
 <p align="center-left">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mo7amedaliEbaid&show_icons=true&theme=vue" />
 	<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mo7amedaliEbaid&theme=vue" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo7amedaliEbaid&show_icons=true&theme=vue&locale=en&layout=compact" alt="mo7amedaliEbaid" />
 </p>
 
 ## 💳 Github Profile Summary Card
