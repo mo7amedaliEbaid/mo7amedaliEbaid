@@ -27,6 +27,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-ebaid-419042266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoudysleim/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mohamed.ebied.980/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/" height="30" width="40" /></a>
+<br/>
+<br/>
 <a href="https://www.youtube.com/channel/UCcaLYqe9DJGdqexSQSIgs7w"><img src="https://www.svgrepo.com/show/126753/youtube.svg" width="70" height="70" ></img></a>
 
 </p>
@@ -38,6 +40,8 @@
 	<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mo7amedaliEbaid&theme=vue" />
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo7amedaliEbaid&show_icons=true&theme=vue&locale=en&layout=compact" alt="mo7amedaliEbaid" />
 </p>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
