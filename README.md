@@ -19,7 +19,7 @@
 <br/>
 
 - Buy my services from [Here](https://khamsat.com/user/mohamed_ali_ebaid/services)
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter** , **Dart**
   
 - Familiar with javascript, react-native, kotlin.
   
