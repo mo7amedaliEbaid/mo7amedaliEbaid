@@ -21,7 +21,7 @@
 - Buy my services from [Here](https://khamsat.com/user/mohamed_ali_ebaid/services)
 - 💬 Ask me about **Flutter** , **Dart** and **Firebase**.
   
-- Familiar with javascript, react-native, kotlin.
+- Familiar with javascript, react-native.
   
 - 📫 How to reach me **mo7amedaliebaid@gmail.com**
   <br/>
