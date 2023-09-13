@@ -50,10 +50,8 @@
 <br/>
 <br/>
 
-## 💳 Github Profile Summary Card
-<p align="center-left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mo7amedaliEbaid&theme=vue"/>
-</p>
+## 💳 Github Trophies
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mo7amedaliEbaid" alt="mo7amedaliEbaid" /></a> </p>
 
