@@ -28,7 +28,14 @@
 <a href="https://www.linkedin.com/in/mohamed-ebaid-419042266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoudysleim/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mohamed.ebied.980/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/" height="30" width="40" /></a>
 
+<br/>
+
+<h3 align="left">Others:</h3>
+<p align="left"
+	
 <a href="https://www.youtube.com/channel/UCcaLYqe9DJGdqexSQSIgs7w" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656502794yt-logo.png" alt="https://www.youtube.com/" height="70" width="70" /></a>
+<a href="https://leetcode.com/mo7amedaliebaid/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" alt="https://leetcode.com/" height="90" width="50" /></a>
+
 <br/>
 <br/>
 
