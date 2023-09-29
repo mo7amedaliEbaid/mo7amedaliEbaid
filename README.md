@@ -33,8 +33,8 @@
 <h3 align="left">Others:</h3>
 <p align="left"
 	
-<a href="https://www.youtube.com/channel/UCcaLYqe9DJGdqexSQSIgs7w" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656502794yt-logo.png" alt="https://www.youtube.com/" height="60" width="60" /></a>
-<a href="https://leetcode.com/mo7amedaliebaid/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" alt="https://leetcode.com/" height="35" width="75" /></a>
+<a href="https://www.youtube.com/channel/UCcaLYqe9DJGdqexSQSIgs7w" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656502794yt-logo.png" alt="https://www.youtube.com/" height="50" width="50" /></a>
+<a href="https://leetcode.com/mo7amedaliebaid/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" alt="https://leetcode.com/" height="25" width="65" /></a>
 
 <br/>
 <br/>
