@@ -27,6 +27,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-ebaid-419042266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoudysleim/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mohamed.ebied.980/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCcaLYqe9DJGdqexSQSIgs7w" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/1009/93/png-transparent-youtube-computer-icons-logo-youtube-angle-social-media-share-icon.png" alt="https://www.youtube.com/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCcaLYqe9DJGdqexSQSIgs7w"><img src="https://w7.pngwing.com/pngs/1009/93/png-transparent-youtube-computer-icons-logo-youtube-angle-social-media-share-icon.png" width="70" height="50" ></img></a>
 <br/>
 <br/>
