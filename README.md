@@ -25,7 +25,7 @@
 - 📫 How to reach me 👉 *Gmail* **mo7amedaliebaid@gmail.com** Or *Whatsapp* **+201016381636**
 
 
-
+<br/>
 
 <p align="center">
 
@@ -36,6 +36,7 @@
 
 </p>
 
+<br/>
 
 ## 📟 GitHub Stats
 
@@ -45,29 +46,20 @@
 <p align="center">
 	<img width="80%" src="https://github-readme-stats.vercel.app/api?username=mo7amedaliEbaid&show_icons=true&theme=dracula" alt="mo7amedaliEbaid" />
 </p>
-
-</pre>
-
-<pre>
 	
-
 <p align="center">
 	
 	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mo7amedaliEbaid&theme=dracula" alt="mo7amedaliEbaid" />
 
 </p>
 
-</pre>
-
-<pre>
-	
-
 <p align="center">
 	
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo7amedaliEbaid&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mo7amedaliEbaid" />
 </p>
-
+	
 </pre>
+
 
 ## 💳 Github Trophies
 
@@ -76,7 +68,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="80%" src="https://github-profile-trophy.vercel.app/?username=mo7amedaliEbaid&row=2&column=5&theme=dracula" alt="mo7amedaliEbaid" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=mo7amedaliEbaid&row=2&column=5&theme=dracula" alt="mo7amedaliEbaid" /></a> </p>
 
 </pre>
 
