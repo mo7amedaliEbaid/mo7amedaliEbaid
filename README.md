@@ -44,7 +44,7 @@
 	
 
 <p align="center">
-	<img width="80%" src="https://github-readme-stats.vercel.app/api?username=mo7amedaliEbaid&show_icons=true&theme=dracula" alt="mo7amedaliEbaid" />
+	<img width="60%" src="https://github-readme-stats.vercel.app/api?username=mo7amedaliEbaid&show_icons=true&theme=dracula" alt="mo7amedaliEbaid" />
 </p>
 	
 <p align="center">
@@ -55,7 +55,7 @@
 
 <p align="center">
 	
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo7amedaliEbaid&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mo7amedaliEbaid" />
+    <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo7amedaliEbaid&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mo7amedaliEbaid" />
 </p>
 	
 </pre>
