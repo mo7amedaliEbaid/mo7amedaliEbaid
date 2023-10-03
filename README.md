@@ -22,7 +22,7 @@
   
 - Familiar with javascript, react-native.
   
-- 📫 How to reach me  *Gmail* **mo7amedaliebaid@gmail.com** Or *Whatsapp* **+201016381636**
+- 📫 How to reach me 👉 *Gmail* **mo7amedaliebaid@gmail.com** Or *Whatsapp* **+201016381636**
 
 
 
