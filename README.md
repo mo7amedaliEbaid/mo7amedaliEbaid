@@ -60,7 +60,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=mo7amedaliEbaid&row=2&column=5&theme=dracula" alt="mo7amedaliEbaid" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=mo7amedaliEbaid&row=2&column=5&theme=onedark" alt="mo7amedaliEbaid" /></a> </p>
 
 </pre>
 
