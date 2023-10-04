@@ -2,7 +2,6 @@
 
 
 
-<pre>
 
 
 	
@@ -13,7 +12,7 @@
 	<img align="center" src="https://media.tenor.com/bfOEyTxwK40AAAAC/work-computer.gif" alt="Coder GIF" width="380" height="280">
 </p>
 
-</pre>
+
 
 
 
