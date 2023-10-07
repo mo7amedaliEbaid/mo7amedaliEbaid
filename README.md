@@ -9,7 +9,7 @@
 
 
 <p align="center">
-	<img align="center" src="https://media.tenor.com/bfOEyTxwK40AAAAC/work-computer.gif" alt="Coder GIF" width="320" height="230">
+	<img align="center" src="https://media.tenor.com/bfOEyTxwK40AAAAC/work-computer.gif" alt="Coder GIF" width="300" height="230">
 </p>
 
 
