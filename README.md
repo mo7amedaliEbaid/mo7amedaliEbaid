@@ -19,7 +19,7 @@
   
 - Familiar with javascript, react-native.
 
-- I'm Available for freelance jobs, Contact me anytime.
+- I'm Available for Freelance Jobs, Contact me anytime.
   
 - 📫 How to reach me 👉 *Gmail* **mo7amedaliebaid@gmail.com** Or *Whatsapp* **+201016381636**
 
@@ -28,7 +28,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/mohamed-ebaid-419042266/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mo7amedebaid/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.facebook.com/mohamed.ebied.980/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="https://www.facebook.com/" /></a>
 <a href="https://www.youtube.com/channel/UCcaLYqe9DJGdqexSQSIgs7w" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="https://www.youtube.com/" /></a>
 <a href="https://leetcode.com/mo7amedaliebaid/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="https://leetcode.com/"/></a>
