@@ -18,10 +18,8 @@
 - 💬 Ask me about **Flutter** , **Dart** and **Firebase**.
   
 - Familiar with javascript, react-native.
-
-- I'm Available for Freelance Jobs, Contact me anytime.
   
-- 📫 How to reach me 👉 *Gmail* **mo7amedaliebaid@gmail.com** Or *Whatsapp* **+201016381636**
+- 📫 How to reach me 👉 *Gmail* **mo7amedaliebaid@gmail.com** 
 
 
 <br/>
