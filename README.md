@@ -7,13 +7,8 @@
 	
 <h3 align="center"> I'm Mohamed Ali Ebaid from Egypt 🇪🇬. A Flutter Developer. </h3>
 
-
-<p align="center">
-	<img align="center" src="https://media.tenor.com/bfOEyTxwK40AAAAC/work-computer.gif" alt="Coder GIF" width="280" height="230">
-</p>
-
-
-
+## About.
+- Experienced Flutter developer with a proven track record of delivering 10 successful applications on both the Play Store and App Store. Passionate about crafting elegant and efficient mobile solutions. Ready to tackle new challenges and drive innovation in the ever-evolving world of mobile development.
 
 - 💬 Ask me about **Flutter** , **Dart** and **Firebase**.
   
@@ -34,6 +29,17 @@
 </p>
 
 <br/>
+
+## Some Apps on Play Store
+- [Atyab Al Marshoud](https://play.google.com/store/apps/details?id=com.line.atyab&pcampaignid=web_share)
+- [U-Med](https://play.google.com/store/apps/details?id=inzox.umed.customer&pcampaignid=web_share)
+- [U-Med provider](https://play.google.com/store/apps/details?id=inzox.umed.provider&pcampaignid=web_share)
+- [Dr.Salah](https://play.google.com/store/apps/details?id=com.sit.doctor&pcampaignid=web_share)
+
+## Some Apps on App Store
+- [Atyab Al Marshoud](https://apps.apple.com/us/app/atyab-al-marshoud/id1573579912)
+- [Al-Qahtani](https://apps.apple.com/us/app/%D8%A7%D9%84%D9%82%D8%AD%D8%B7%D8%A7%D9%86%D9%8A/id6473168861)
+
 
 ## 📟 GitHub Stats
 
