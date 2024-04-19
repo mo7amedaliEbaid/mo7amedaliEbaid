@@ -8,7 +8,7 @@
 <h3 align="center"> I'm Mohamed Ali Ebaid from Egypt 🇪🇬. A Flutter Developer. </h3>
 
 ## About.
-- Experienced Flutter developer with a proven track record of delivering 10 successful applications on both the Play Store and App Store. Passionate about crafting elegant and efficient mobile solutions. Ready to tackle new challenges and drive innovation in the ever-evolving world of mobile development.
+- Experienced Flutter developer with a proven track record of delivering 8 successful applications on both the Play Store and App Store. Passionate about crafting elegant and efficient mobile solutions. Ready to tackle new challenges and drive innovation in the ever-evolving world of mobile development.
 
 - 💬 Ask me about **Flutter** , **Dart** and **Firebase**.
   
