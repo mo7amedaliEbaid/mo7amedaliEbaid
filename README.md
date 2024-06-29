@@ -40,6 +40,7 @@
 ## Some Apps on App Store
 - [Atyab Al Marshoud](https://apps.apple.com/us/app/atyab-al-marshoud/id1573579912)
 - [Al-Qahtani](https://apps.apple.com/us/app/%D8%A7%D9%84%D9%82%D8%AD%D8%B7%D8%A7%D9%86%D9%8A/id6473168861)
+- [Gazelle](https://apps.apple.com/sa/app/gazelle/id6502878426)
 
 
 ## 📟 GitHub Stats
