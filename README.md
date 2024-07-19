@@ -35,9 +35,9 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-    <img  width="45%" src="https://github-readme-stats.vercel.app/api?username=mo7amedaliEbaid&show_icons=true&theme=dracula" alt="mo7amedaliEbaid" />
-    <img  width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mo7amedaliEbaid&theme=dracula" alt="mo7amedaliEbaid" />
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo7amedaliEbaid&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mo7amedaliEbaid" />
+    <img  width="70%" src="https://github-readme-stats.vercel.app/api?username=mo7amedaliEbaid&show_icons=true&theme=dracula" alt="mo7amedaliEbaid" />
+    <img  width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mo7amedaliEbaid&theme=dracula" alt="mo7amedaliEbaid" />
+    <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo7amedaliEbaid&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mo7amedaliEbaid" />
 </p>
 
 ## 💳 GitHub Trophies
