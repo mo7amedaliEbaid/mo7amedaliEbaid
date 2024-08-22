@@ -31,6 +31,7 @@
 - [Al-Qahtani](https://apps.apple.com/us/app/%D8%A7%D9%84%D9%82%D8%AD%D8%B7%D8%A7%D9%86%D9%8A/id6473168861)
 - [Gazelle](https://apps.apple.com/sa/app/gazelle/id6502878426)
 - [Al-Andalus](https://apps.apple.com/us/app/%D8%A7%D9%84%D8%A7%D9%86%D8%AF%D9%84%D8%B3/id6473839184)
+- [Mansour](https://apps.apple.com/eg/app/%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D9%84%D9%84%D8%B0%D8%A8%D8%A7%D8%A6%D8%AD/id1394266199)
 
 ## 📟 GitHub Stats
 <p align="center">
