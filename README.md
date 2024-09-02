@@ -26,7 +26,7 @@
 - [U-Med](https://play.google.com/store/apps/details?id=inzox.umed.customer&pcampaignid=web_share)
 - [U-Med provider](https://play.google.com/store/apps/details?id=inzox.umed.provider&pcampaignid=web_share)
 - [Dr.Salah](https://play.google.com/store/apps/details?id=com.sit.doctor&pcampaignid=web_share)
-- [Karagak](https://play.google.com/store/apps/details?id=com.webstdy.karagak&pcampaignid=web_share)
+- [Garagak](https://play.google.com/store/apps/details?id=com.webstdy.karagak&pcampaignid=web_share)
 
 ## Some Apps on App Store
 - [Atyab Al Marshoud](https://apps.apple.com/us/app/atyab-al-marshoud/id1573579912)
