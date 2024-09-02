@@ -20,6 +20,7 @@
 <br/>
 
 ## Some Apps on Play Store
+- [Land](https://play.google.com/store/apps/details?id=com.app.digearth&pcampaignid=web_share)
 - [Atyab Al Marshoud](https://play.google.com/store/apps/details?id=com.line.atyab&pcampaignid=web_share)
 - [Meter](https://play.google.com/store/apps/details?id=com.meter.www&pcampaignid=web_share)
 - [U-Med](https://play.google.com/store/apps/details?id=inzox.umed.customer&pcampaignid=web_share)
