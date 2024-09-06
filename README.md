@@ -23,8 +23,8 @@
 - [Land](https://play.google.com/store/apps/details?id=com.app.digearth&pcampaignid=web_share)
 - [Atyab Al Marshoud](https://play.google.com/store/apps/details?id=com.line.atyab&pcampaignid=web_share)
 - [Meter](https://play.google.com/store/apps/details?id=com.meter.www&pcampaignid=web_share)
-- [U-Med](https://play.google.com/store/apps/details?id=inzox.umed.customer&pcampaignid=web_share)
-- [U-Med provider](https://play.google.com/store/apps/details?id=inzox.umed.provider&pcampaignid=web_share)
+- [Gazelle Observer](https://play.google.com/store/apps/details?id=com.webstdy.ghazalobserver&pcampaignid=web_share)
+- [Gazelle](https://play.google.com/store/apps/details?id=com.webstdy.ghazal&pcampaignid=web_share)
 - [Dr.Salah](https://play.google.com/store/apps/details?id=com.sit.doctor&pcampaignid=web_share)
 - [Garagak](https://play.google.com/store/apps/details?id=com.webstdy.karagak&pcampaignid=web_share)
 
