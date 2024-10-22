@@ -22,7 +22,6 @@
 ## Some Apps on Play Store
 - [KN](https://play.google.com/store/apps/details?id=com.alkafaa.alkafaa_user&pcampaignid=web_share)
 - [Land](https://play.google.com/store/apps/details?id=com.app.digearth&pcampaignid=web_share)
-- [Atyab Al Marshoud](https://play.google.com/store/apps/details?id=com.line.atyab&pcampaignid=web_share)
 - [Meter](https://play.google.com/store/apps/details?id=com.meter.www&pcampaignid=web_share)
 - [Gazelle Observer](https://play.google.com/store/apps/details?id=com.webstdy.ghazalobserver&pcampaignid=web_share)
 - [Gazelle](https://play.google.com/store/apps/details?id=com.webstdy.ghazal&pcampaignid=web_share)
