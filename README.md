@@ -5,7 +5,8 @@
 ## About Me
 - Experienced Mobile Developer specialized in Flutter and Dart with a proven track record of delivering 12 successful applications on both the Play Store and App Store. Passionate about crafting elegant and efficient mobile solutions. Ready to tackle new challenges and drive innovation in the ever-evolving world of mobile development.
 - 💬 Ask me about **Flutter**, **Dart**, and **Firebase**.
-- Familiar with `Kotlin`, `Jetpack-Compose`, `JavaScript`, `React-Native`.
+- Familiar with `java`, `Kotlin`, `Jetpack-Compose`, `JavaScript`, `React-Native`.
+- Learning `Spring Boot` and interested in Backend Technologies.
 - 📫 How to reach me 👉 **mo7amedaliebaid@gmail.com** 
 
 <br/>
