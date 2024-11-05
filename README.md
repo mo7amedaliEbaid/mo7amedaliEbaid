@@ -16,6 +16,8 @@
 <a href="https://www.youtube.com/channel/UCcaLYqe9DJGdqexSQSIgs7w" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
 <a href="https://leetcode.com/mo7amedaliebaid/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/></a>
 <a href="https://mohamedaliportfolio-mohameds-projects-55b46c5d.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=portfolio&color=FFBF00" alt="Portfolio"/></a>
+<a href="https://medium.com/@mo7amedaliebaid" target="blank"><img align="center" src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&color=000000" alt="Medium"/></a>
+
 </p>
 
 <br/>
