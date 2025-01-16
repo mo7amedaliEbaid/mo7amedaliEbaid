@@ -3,7 +3,7 @@
 <h3 align="center"> I'm Mohamed Ali Ebaid from Egypt 🇪🇬. A Senior Flutter Developer | Mobile Application Developer. </h3>
 
 ## About Me
-- Experienced Mobile Developer specialized in Flutter and Dart with a proven track record of delivering 12 successful applications on both the Play Store and App Store. Passionate about crafting elegant and efficient mobile solutions. Ready to tackle new challenges and drive innovation in the ever-evolving world of mobile development.
+- Experienced Mobile Developer specialized in Flutter and Dart with a proven track record of delivering 15 successful applications on both the Play Store and App Store. Passionate about crafting elegant and efficient mobile solutions. Ready to tackle new challenges and drive innovation in the ever-evolving world of mobile development.
 - 💬 Ask me about **Flutter**, **Dart**, and **Firebase**.
 - Familiar with `java`, `Kotlin`, `Jetpack-Compose`, `JavaScript`, `React-Native`.
 - Learning `Spring Boot` and interested in Backend Technologies.
