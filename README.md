@@ -27,7 +27,7 @@
 - [KN](https://play.google.com/store/apps/details?id=com.alkafaa.alkafaa_user&pcampaignid=web_share)
 - [AlSari4Cars](https://play.google.com/store/apps/details?id=com.al_sari.cars&pcampaignid=web_share)
 - [Land](https://play.google.com/store/apps/details?id=com.app.digearth&pcampaignid=web_share)
-- [Meter](https://play.google.com/store/apps/details?id=com.meter.www&pcampaignid=web_share)
+- [Mansour](https://play.google.com/store/apps/details?id=com.webstdy.mansour&pcampaignid=web_share)
 - [Gazelle Observer](https://play.google.com/store/apps/details?id=com.webstdy.ghazalobserver&pcampaignid=web_share)
 - [Gazelle](https://play.google.com/store/apps/details?id=com.webstdy.ghazal&pcampaignid=web_share)
 - [Dr.Salah](https://play.google.com/store/apps/details?id=com.sit.doctor&pcampaignid=web_share)
