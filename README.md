@@ -30,17 +30,18 @@
 - [Mansour](https://play.google.com/store/apps/details?id=com.webstdy.mansour&pcampaignid=web_share)
 - [Gazelle Observer](https://play.google.com/store/apps/details?id=com.webstdy.ghazalobserver&pcampaignid=web_share)
 - [Gazelle](https://play.google.com/store/apps/details?id=com.webstdy.ghazal&pcampaignid=web_share)
-- [Dr.Salah](https://play.google.com/store/apps/details?id=com.sit.doctor&pcampaignid=web_share)
+- [Meter App](https://play.google.com/store/apps/details?id=com.solinovatiion.meter&pcampaignid=web_share)
 - [Garagak](https://play.google.com/store/apps/details?id=com.webstdy.karagak&pcampaignid=web_share)
 
 ## Some Apps on App Store
-- [Atyab Al Marshoud](https://apps.apple.com/us/app/atyab-al-marshoud/id1573579912)
-- [Meter](https://apps.apple.com/sa/app/meter/id6444586530?l=ar)
+- [Land](https://apps.apple.com/sa/app/%D8%A7%D8%B1%D8%B6/id6467199870)
+- [Meter App](https://apps.apple.com/us/app/meter-app/id6664052882)
 - [AlSari4Cars](https://apps.apple.com/sa/app/alsari4cars/id6741610056) 
 - [Al-Qahtani](https://apps.apple.com/us/app/%D8%A7%D9%84%D9%82%D8%AD%D8%B7%D8%A7%D9%86%D9%8A/id6473168861)
 - [Gazelle](https://apps.apple.com/sa/app/gazelle/id6502878426)
 - [Al-Andalus](https://apps.apple.com/us/app/%D8%A7%D9%84%D8%A7%D9%86%D8%AF%D9%84%D8%B3/id6473839184)
 - [Mansour](https://apps.apple.com/eg/app/%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D9%84%D9%84%D8%B0%D8%A8%D8%A7%D8%A6%D8%AD/id1394266199)
+- [Noon Cafe](https://apps.apple.com/sa/app/noon-cafe/id6470820374)
 
 ## 📟 GitHub Stats
 <p align="center">
