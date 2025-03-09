@@ -32,6 +32,7 @@
 - [Gazelle Observer](https://play.google.com/store/apps/details?id=com.webstdy.ghazalobserver&pcampaignid=web_share)
 - [Gazelle](https://play.google.com/store/apps/details?id=com.webstdy.ghazal&pcampaignid=web_share)
 - [Meter App](https://play.google.com/store/apps/details?id=com.solinovatiion.meter&pcampaignid=web_share)
+- [Tafawq](https://play.google.com/store/apps/details?id=com.tocaan.tafawq&pcampaignid=web_share)
 - [Garagak](https://play.google.com/store/apps/details?id=com.webstdy.karagak&pcampaignid=web_share)
 
 ## Some Apps on App Store
