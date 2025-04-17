@@ -33,7 +33,6 @@
 - [Gazelle](https://play.google.com/store/apps/details?id=com.webstdy.ghazal&pcampaignid=web_share)
 - [Meter App](https://play.google.com/store/apps/details?id=com.solinovatiion.meter&pcampaignid=web_share)
 - [Tafawq](https://play.google.com/store/apps/details?id=com.tocaan.tafawq&pcampaignid=web_share)
-- [Garagak](https://play.google.com/store/apps/details?id=com.webstdy.karagak&pcampaignid=web_share)
 
 ## Some Apps on App Store
 - [Land](https://apps.apple.com/sa/app/%D8%A7%D8%B1%D8%B6/id6467199870)
