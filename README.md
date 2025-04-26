@@ -26,6 +26,7 @@
 - [Juhayna Survey](https://play.google.com/store/apps/details?id=com.juhayna.survey&pcampaignid=web_share)
 - [KN](https://play.google.com/store/apps/details?id=com.alkafaa.alkafaa_user&pcampaignid=web_share)
 - [AlSari4Cars](https://play.google.com/store/apps/details?id=com.al_sari.cars&pcampaignid=web_share)
+- [Power Punch](https://play.google.com/store/apps/details?id=com.tocaan.powerpunch&pcampaignid=web_share)
 - [Bokaram](https://play.google.com/store/apps/details?id=com.tocaan.bokaram&pcampaignid=web_share)
 - [Land](https://play.google.com/store/apps/details?id=com.app.digearth&pcampaignid=web_share)
 - [Mansour](https://play.google.com/store/apps/details?id=com.webstdy.mansour&pcampaignid=web_share)
@@ -36,9 +37,11 @@
 
 ## Some Apps on App Store
 - [Land](https://apps.apple.com/sa/app/%D8%A7%D8%B1%D8%B6/id6467199870)
+- [Power Punch](https://apps.apple.com/sa/app/power-punch/id6744579661)
 - [Bokaram](https://apps.apple.com/kz/app/bokaram/id6742077893)
 - [Meter App](https://apps.apple.com/us/app/meter-app/id6664052882)
-- [AlSari4Cars](https://apps.apple.com/sa/app/alsari4cars/id6741610056) 
+- [AlSari4Cars](https://apps.apple.com/sa/app/alsari4cars/id6741610056)
+- [Tafawq](https://apps.apple.com/sa/app/tafawq/id6742734472)
 - [Al-Qahtani](https://apps.apple.com/us/app/%D8%A7%D9%84%D9%82%D8%AD%D8%B7%D8%A7%D9%86%D9%8A/id6473168861)
 - [Gazelle](https://apps.apple.com/sa/app/gazelle/id6502878426)
 - [Al-Andalus](https://apps.apple.com/us/app/%D8%A7%D9%84%D8%A7%D9%86%D8%AF%D9%84%D8%B3/id6473839184)
