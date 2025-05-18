@@ -3,7 +3,7 @@
 <h3 align="center"> I'm Mohamed Ali Ebaid from Egypt 🇪🇬. A Senior Flutter Developer | Mobile Application Developer. </h3>
 
 ## About Me
-- Experienced Mobile Developer specialized in Flutter and Dart with a proven track record of delivering 18 successful applications on both the Play Store and App Store. Passionate about crafting elegant and efficient mobile solutions. Ready to tackle new challenges and drive innovation in the ever-evolving world of mobile development.
+- Experienced Mobile Developer specialized in Flutter and Dart with a proven track record of delivering 20 successful applications on both the Play Store and App Store. Passionate about crafting elegant and efficient mobile solutions. Ready to tackle new challenges and drive innovation in the ever-evolving world of mobile development.
 - 💬 Ask me about **Flutter**, **Dart**, and **Firebase**.
 - Familiar with `java`, `Kotlin`, `Jetpack-Compose`, `JavaScript`, `React-Native`.
 - Learning `Swift`,`SwiftUi`.
@@ -50,14 +50,14 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-    <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=mo7amedaliEbaid&show_icons=true&theme=dracula" alt="mo7amedaliEbaid" />
-    <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mo7amedaliEbaid&theme=dracula" alt="mo7amedaliEbaid" />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo7amedaliEbaid&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mo7amedaliEbaid" />
+    <img  width="40%" src="https://github-readme-stats.vercel.app/api?username=mo7amedaliEbaid&show_icons=true&theme=dracula" alt="mo7amedaliEbaid" />
+    <img  width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=mo7amedaliEbaid&theme=dracula" alt="mo7amedaliEbaid" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo7amedaliEbaid&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mo7amedaliEbaid" />
 </p>
 
 ## 💳 GitHub Trophies
 <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=mo7amedaliEbaid&row=2&column=5&theme=onedark" alt="mo7amedaliEbaid" /></a> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="80%" src="https://github-profile-trophy.vercel.app/?username=mo7amedaliEbaid&row=2&column=5&theme=onedark" alt="mo7amedaliEbaid" /></a> 
 </p>
 
 ## 💻 Tech Stack
