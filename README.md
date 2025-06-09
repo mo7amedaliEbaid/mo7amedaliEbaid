@@ -24,6 +24,8 @@
 
 ## Apps on Play Store and App Store
 
+<div align="center">
+
 | Play Store Apps      | Link | App Store Apps     | Link |
 |----------------------|------|--------------------|------|
 | Juhayna Survey       | [Play Store](https://play.google.com/store/apps/details?id=com.juhayna.survey&pcampaignid=web_share) | Land                | [App Store](https://apps.apple.com/sa/app/%D8%A7%D8%B1%D8%B6/id6467199870) |
@@ -38,7 +40,7 @@
 | Meter App            | [Play Store](https://play.google.com/store/apps/details?id=com.solinovatiion.meter&pcampaignid=web_share) | Mansour             | [App Store](https://apps.apple.com/eg/app/%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D9%84%D9%84%D8%B0%D8%A8%D8%A7%D8%A6%D8%AD/id1394266199) |
 | Tafawq               | [Play Store](https://play.google.com/store/apps/details?id=com.tocaan.tafawq&pcampaignid=web_share) | Noon Cafe           | [App Store](https://apps.apple.com/sa/app/noon-cafe/id6470820374) |
 
-
+</div>
 
 ## 📟 GitHub Stats
 <p align="center">
