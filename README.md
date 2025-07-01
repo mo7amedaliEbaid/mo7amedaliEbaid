@@ -26,19 +26,17 @@
 
 <div align="center">
 
-| Play Store Apps      | Link | App Store Apps     | Link |
-|----------------------|------|--------------------|------|
-| Juhayna Survey       | [Play Store](https://play.google.com/store/apps/details?id=com.juhayna.survey&pcampaignid=web_share) | Land                | [App Store](https://apps.apple.com/sa/app/%D8%A7%D8%B1%D8%B6/id6467199870) |
-| KN                   | [Play Store](https://play.google.com/store/apps/details?id=com.alkafaa.alkafaa_user&pcampaignid=web_share) | Power Punch         | [App Store](https://apps.apple.com/sa/app/power-punch/id6744579661) |
-| AlSari4Cars          | [Play Store](https://play.google.com/store/apps/details?id=com.al_sari.cars&pcampaignid=web_share) | Bokaram             | [App Store](https://apps.apple.com/kz/app/bokaram/id6742077893) |
-| Power Punch          | [Play Store](https://play.google.com/store/apps/details?id=com.tocaan.powerpunch&pcampaignid=web_share) | Meter App           | [App Store](https://apps.apple.com/us/app/meter-app/id6664052882) |
-| Bokaram              | [Play Store](https://play.google.com/store/apps/details?id=com.tocaan.bokaram&pcampaignid=web_share) | AlSari4Cars         | [App Store](https://apps.apple.com/sa/app/alsari4cars/id6741610056) |
-| Land                 | [Play Store](https://play.google.com/store/apps/details?id=com.app.digearth&pcampaignid=web_share) | Tafawq              | [App Store](https://apps.apple.com/sa/app/tafawq/id6742734472) |
-| Mansour              | [Play Store](https://play.google.com/store/apps/details?id=com.webstdy.mansour&pcampaignid=web_share) | Al-Qahtani          | [App Store](https://apps.apple.com/us/app/%D8%A7%D9%84%D9%82%D8%AD%D8%B7%D8%A7%D9%86%D9%8A/id6473168861) |
-| Gazelle Observer     | [Play Store](https://play.google.com/store/apps/details?id=com.webstdy.ghazalobserver&pcampaignid=web_share) | Gazelle             | [App Store](https://apps.apple.com/sa/app/gazelle/id6502878426) |
-| Gazelle              | [Play Store](https://play.google.com/store/apps/details?id=com.webstdy.ghazal&pcampaignid=web_share) | Al-Andalus          | [App Store](https://apps.apple.com/us/app/%D8%A7%D9%84%D8%A7%D9%86%D8%AF%D9%84%D8%B3/id6473839184) |
-| Meter App            | [Play Store](https://play.google.com/store/apps/details?id=com.solinovatiion.meter&pcampaignid=web_share) | Mansour             | [App Store](https://apps.apple.com/eg/app/%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D9%84%D9%84%D8%B0%D8%A8%D8%A7%D8%A6%D8%AD/id1394266199) |
-| Tafawq               | [Play Store](https://play.google.com/store/apps/details?id=com.tocaan.tafawq&pcampaignid=web_share) | Noon Cafe           | [App Store](https://apps.apple.com/sa/app/noon-cafe/id6470820374) |
+| **Play Store Apps** | **Link**                                                                                                     | **App Store Apps** | **Link**                                                                                                                          |
+| ------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| Juhayna Survey      | [Play Store](https://play.google.com/store/apps/details?id=com.juhayna.survey&pcampaignid=web_share)         | Land               | [App Store](https://apps.apple.com/sa/app/%D8%A7%D8%B1%D8%B6/id6467199870)                                                        |
+| KN                  | [Play Store](https://play.google.com/store/apps/details?id=com.alkafaa.alkafaa_user&pcampaignid=web_share)   | Meter App          | [App Store](https://apps.apple.com/us/app/meter-app/id6664052882)                                                                 |
+| AlSari4Cars         | [Play Store](https://play.google.com/store/apps/details?id=com.al_sari.cars&pcampaignid=web_share)           | AlSari4Cars        | [App Store](https://apps.apple.com/sa/app/alsari4cars/id6741610056)                                                               |
+| Land                | [Play Store](https://play.google.com/store/apps/details?id=com.app.digearth&pcampaignid=web_share)           | Al-Qahtani         | [App Store](https://apps.apple.com/us/app/%D8%A7%D9%84%D9%82%D8%AD%D8%B7%D8%A7%D9%86%D9%8A/id6473168861)                          |
+| Mansour             | [Play Store](https://play.google.com/store/apps/details?id=com.webstdy.mansour&pcampaignid=web_share)        | Gazelle            | [App Store](https://apps.apple.com/sa/app/gazelle/id6502878426)                                                                   |
+| Gazelle Observer    | [Play Store](https://play.google.com/store/apps/details?id=com.webstdy.ghazalobserver&pcampaignid=web_share) | Al-Andalus         | [App Store](https://apps.apple.com/us/app/%D8%A7%D9%84%D8%A7%D9%86%D8%AF%D9%84%D8%B3/id6473839184)                                |
+| Gazelle             | [Play Store](https://play.google.com/store/apps/details?id=com.webstdy.ghazal&pcampaignid=web_share)         | Mansour            | [App Store](https://apps.apple.com/eg/app/%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D9%84%D9%84%D8%B0%D8%A8%D8%A7%D8%A6%D8%AD/id1394266199) |
+| Meter App           | [Play Store](https://play.google.com/store/apps/details?id=com.solinovatiion.meter&pcampaignid=web_share)    | Noon Cafe          | [App Store](https://apps.apple.com/sa/app/noon-cafe/id6470820374)                                                                 |
+
 
 </div>
 
