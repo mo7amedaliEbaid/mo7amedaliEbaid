@@ -42,6 +42,7 @@
 | Cadeau        | [Play Store](https://play.google.com/store/apps/details?id=com.inzox.cadeau&pcampaignid=web_share)    | Cadeau         | [App Store](https://apps.apple.com/eg/app/cadeau/id6752618099)                                                                 |
 | Feekl3b        | [Play Store](https://play.google.com/store/apps/details?id=com.tocaan.fekle3badnroid&pcampaignid=web_share)    | Feekl3b         | [App Store](https://apps.apple.com/kz/app/feekl3b/id6743447474?platform=iphone)                                                                 |
 | Le3bty        | [Play Store](https://play.google.com/store/apps/details?id=com.tocaan.le3bty&pcampaignid=web_share)    | Le3bty         | [App Store](https://apps.apple.com/eg/app/le3bty-%D9%84%D8%B9%D8%A8%D8%AA%D9%8A/id6741868058)                                                                 |
+| Mustaqil        | [Play Store](https://play.google.com/store/apps/details?id=com.tocaan.mustaqil&pcampaignid=web_share)    | Mustaqil         | [App Store](https://apps.apple.com/eg/app/mustaqil-%D9%85%D8%B3%D8%AA%D9%82%D9%84/id6742258252)                                                                 |
 
 
 
