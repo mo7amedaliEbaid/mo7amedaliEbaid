@@ -52,7 +52,6 @@
 <p align="center">
      <img  width="50%" src="https://github-readme-stats-tawny.vercel.app/api?username=mo7amedaliEbaid&show_icons=true&theme=dracula" alt="mo7amedaliEbaid" />
     <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mo7amedaliEbaid&theme=dracula" alt="mo7amedaliEbaid" />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo7amedaliEbaid&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mo7amedaliEbaid" />
 </p>
 
 ## 💳 GitHub Trophies
