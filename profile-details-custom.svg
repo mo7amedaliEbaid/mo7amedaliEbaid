@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" role="img" aria-label="Profile details for mo7amedaliEbaid">
+  <style>
+    .card { fill: #1e1f29; stroke: #2d2e3b; stroke-width: 2; }
+    .title { fill: #ff66c4; font: 700 22px 'Segoe UI', Ubuntu, Sans-Serif; }
+    .label { fill: #c7c9d3; font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; }
+    .value { fill: #ffd166; font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; }
+    .muted { fill: #8a8da2; font: 14px 'Segoe UI', Ubuntu, Sans-Serif; }
+    .graph-fill { fill: url(#grad); }
+    .graph-line { fill: none; stroke: #c084fc; stroke-width: 3; }
+  </style>
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#c084fc" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.05" />
+    </linearGradient>
+  </defs>
+
+  <rect class="card" x="8" y="8" rx="14" ry="14" width="884" height="244" />
+
+  <text class="title" x="28" y="46">mo7amedaliEbaid (Mohamed Ali Ebaid)</text>
+
+  <!-- Stats row -->
+  <g transform="translate(28,76)">
+    <text class="label" x="0" y="0">Contributions this year:</text>
+    <text class="value" x="210" y="0">355</text>
+
+    <text class="label" x="310" y="0">Public repos:</text>
+    <text class="value" x="450" y="0">89</text>
+
+    <text class="label" x="600" y="0">Joined:</text>
+    <text class="value" x="690" y="0">7 years ago</text>
+
+    <text class="label" x="0" y="32">Email:</text>
+    <text class="value" x="80" y="32">mo7amedaliebaid@gmail.com</text>
+  </g>
+
+  <!-- Graph axis labels -->
+  <text class="muted" x="28" y="132">Contributions in the last year</text>
+
+  <!-- Graph area -->
+  <g transform="translate(28,136)">
+    <rect x="0" y="10" width="844" height="110" fill="#232433" stroke="#2d2e3b" stroke-width="1.5" rx="10" ry="10" />
+    <!-- Simplified area path (static snapshot) -->
+    <path class="graph-fill" d="M10 100 L80 70 L140 80 L210 60 L270 40 L330 55 L390 30 L450 75 L510 65 L570 45 L630 70 L690 55 L750 90 L810 100 L810 110 L10 110 Z" />
+    <path class="graph-line" d="M10 100 L80 70 L140 80 L210 60 L270 40 L330 55 L390 30 L450 75 L510 65 L570 45 L630 70 L690 55 L750 90 L810 100" />
+    <!-- x-axis ticks -->
+    <g class="muted" font-size="12">
+      <text x="0" y="130">Jan</text>
+      <text x="190" y="130">Mar</text>
+      <text x="380" y="130">May</text>
+      <text x="570" y="130">Jul</text>
+      <text x="760" y="130">Sep</text>
+    </g>
+  </g>
+</svg>
