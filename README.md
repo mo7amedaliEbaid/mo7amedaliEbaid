@@ -69,12 +69,6 @@ Experienced Mobile Developer specialized in **Flutter** and **Dart** with **5+ y
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mo7amedaliEbaid&theme=dracula&utcOffset=2" alt="Productive Time" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mo7amedaliEbaid&theme=dracula&hide_border=true&radius=10" alt="Activity Graph" />
-</div>
-
 ---
 
 ## GitHub Trophies
@@ -90,13 +84,7 @@ Experienced Mobile Developer specialized in **Flutter** and **Dart** with **5+ y
 ## Profile Summary
 
 <div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mo7amedaliEbaid&theme=dracula" alt="Repos per Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mo7amedaliEbaid&theme=dracula" alt="Most Commit Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mo7amedaliEbaid&theme=dracula" alt="Stats" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mo7amedaliEbaid&theme=dracula" alt="Profile Details" />
+  <img width="98%" src="./profile-details-custom.svg" alt="Profile Details" />
 </div>
 
 ---
