@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+There+%F0%9F%91%8B+I'm+Mohamed+Ali+Ebaid;Senior+Flutter+Developer+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+There+%F0%9F%91%8B+I'm+Mohamed+Ali+Ebaid;Senior+Mobile+Developer+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
 
-  <img src="https://komarev.com/ghpvc/?username=mo7amedaliEbaid&label=Profile%20Views&color=bd93f9&style=for-the-badge" alt="Profile Views" />
+  
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## About Me
 
-Experienced Mobile Developer specialized in **Flutter** and **Dart** with **5+ years** of experience and a proven track record of delivering **25+ successful applications** on both the Play Store and App Store. Passionate about crafting elegant and efficient mobile solutions. Ready to tackle new challenges and drive innovation in the ever-evolving world of mobile development.
+Experienced Mobile Developer specialized in **Flutter** and **Dart** with **6+ years** of experience and a proven track record of delivering **25+ successful applications** on both the Play Store and App Store. Passionate about crafting elegant and efficient mobile solutions. Ready to tackle new challenges and drive innovation in the ever-evolving world of mobile development.
 
 - **Ask me about** Flutter, Dart, and Firebase
 - **Familiar with** Java, Kotlin, Jetpack Compose, JavaScript, React Native
@@ -65,7 +65,6 @@ Experienced Mobile Developer specialized in **Flutter** and **Dart** with **5+ y
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-tawny.vercel.app/api/top-langs/?username=mo7amedaliEbaid&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mo7amedaliEbaid&theme=dracula&utcOffset=2" alt="Productive Time" />
 </div>
 
