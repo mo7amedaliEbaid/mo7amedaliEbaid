@@ -60,8 +60,8 @@ Experienced Mobile Developer specialized in **Flutter** and **Dart** with **6+ y
 ## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-tawny.vercel.app/api?username=mo7amedaliEbaid&show_icons=true&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mo7amedaliEbaid&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mo7amedaliEbaid&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mo7amedaliEbaid&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
 
@@ -72,7 +72,7 @@ Experienced Mobile Developer specialized in **Flutter** and **Dart** with **6+ y
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="80%" src="https://github-profile-trophy-tawny.vercel.app/?username=mo7amedaliEbaid&row=2&column=5&theme=dracula&no-frame=true&title=-Experience" alt="GitHub Trophies" />
+    <img width="80%" src="https://github-profile-trophy-tawny.vercel.app/?username=mo7amedaliEbaid&row=2&column=5&theme=radical&no-frame=true&title=-Experience" alt="GitHub Trophies" />
   </a>
 </p>
 
