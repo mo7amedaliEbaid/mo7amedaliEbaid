@@ -64,9 +64,7 @@ Experienced Mobile Developer specialized in **Flutter** and **Dart** with **6+ y
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mo7amedaliEbaid&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mo7amedaliEbaid&theme=dracula&utcOffset=2" alt="Productive Time" />
-</div>
+
 
 ---
 
@@ -80,13 +78,7 @@ Experienced Mobile Developer specialized in **Flutter** and **Dart** with **6+ y
 
 ---
 
-## Profile Summary
 
-<div align="center">
-  <img width="98%" src="./profile-details-custom.svg" alt="Profile Details" />
-</div>
-
----
 
 ## Tech Stack
 
