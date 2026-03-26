@@ -127,6 +127,7 @@ Senior Mobile Developer with **6+ years** of experience shipping **25+ productio
 </div>
 
 ---
+#### Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
