@@ -2,7 +2,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1200&pause=590&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+There+%F0%9F%91%8B+I'm+Mohamed+Ali+Ebaid;Senior+Mobile+Developer+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
 
-  
+
 
 </div>
 
@@ -10,11 +10,11 @@
 
 ## About Me
 
-Experienced Mobile Developer specialized in **Flutter** and **Dart** with **6+ years** of experience and a proven track record of delivering **25+ successful applications** on both the Play Store and App Store. Passionate about crafting elegant and efficient mobile solutions. Ready to tackle new challenges and drive innovation in the ever-evolving world of mobile development.
+Senior Mobile Developer with **6+ years** of experience shipping **25+ production apps** across the Play Store and App Store. I build cross-platform apps with **Flutter/Dart** and native apps with **Kotlin/Java** (Android) and **Swift/SwiftUI** (iOS). Currently a **Senior Mobile Engineer at Axis** — a Tiger Global-backed fintech serving **1M+ users** across Android, iOS, and Huawei platforms.
 
-- **Ask me about** Flutter, Dart, and Firebase
-- **Familiar with** Java, Kotlin, Jetpack Compose, JavaScript, React Native
-- **Currently learning** Swift, SwiftUI
+- **Primary Stack** Flutter, Dart, Kotlin, Swift, SwiftUI
+- **Architecture** Clean Architecture, MVVM, BLoC/Cubit, SOLID, TDD
+- **Tools** Android Studio, Xcode, Firebase, CI/CD, Git
 - **Reach me at** mo7amedaliebaid@gmail.com
 
 ---
@@ -37,19 +37,20 @@ Experienced Mobile Developer specialized in **Flutter** and **Dart** with **6+ y
 
 | **Play Store Apps** | **Link** | **App Store Apps** | **Link** |
 | :---: | :---: | :---: | :---: |
-| Juhayna Survey | [Play Store](https://play.google.com/store/apps/details?id=com.juhayna.survey&pcampaignid=web_share) | Land | [App Store](https://apps.apple.com/sa/app/%D8%A7%D8%B1%D8%B6/id6467199870) |
-| KN | [Play Store](https://play.google.com/store/apps/details?id=com.alkafaa.alkafaa_user&pcampaignid=web_share) | Meter App | [App Store](https://apps.apple.com/us/app/meter-app/id6664052882) |
+| Axis Pay | [Play Store](https://play.google.com/store/apps/details?id=com.axispay.consumer.wallet) | Axis Pay | [App Store](https://apps.apple.com/eg/app/id1597753411) |
+| 8Orders | [Play Store](https://play.google.com/store/apps/details?id=com.HadafSolutions.Otlobly) | 8Orders | [App Store](https://apps.apple.com/eg/app/8orders-food-grocery/id1263923913) |
+| CliniDo | [Play Store](https://play.google.com/store/apps/details?id=com.patient.CliniDo.patientandroid) | CliniDo | [App Store](https://apps.apple.com/eg/app/id1494684476) |
+| Juhayna Survey | [Play Store](https://play.google.com/store/apps/details?id=com.juhayna.survey&pcampaignid=web_share) | KN | [App Store](https://apps.apple.com/kh/app/kn/id6443600127) |
+| KN | [Play Store](https://play.google.com/store/apps/details?id=com.alkafaa.alkafaa_user&pcampaignid=web_share) | Land | [App Store](https://apps.apple.com/sa/app/%D8%A7%D8%B1%D8%B6/id6467199870) |
 | AlSari4Cars | [Play Store](https://play.google.com/store/apps/details?id=com.al_sari.cars&pcampaignid=web_share) | AlSari4Cars | [App Store](https://apps.apple.com/sa/app/alsari4cars/id6741610056) |
 | Land | [Play Store](https://play.google.com/store/apps/details?id=com.app.digearth&pcampaignid=web_share) | Al-Qahtani | [App Store](https://apps.apple.com/us/app/%D8%A7%D9%84%D9%82%D8%AD%D8%B7%D8%A7%D9%86%D9%8A/id6473168861) |
-| Mansour | [Play Store](https://play.google.com/store/apps/details?id=com.webstdy.mansour&pcampaignid=web_share) | Gazelle | [App Store](https://apps.apple.com/sa/app/gazelle/id6502878426) |
+| Mansour | [Play Store](https://play.google.com/store/apps/details?id=com.webstdy.mansour&pcampaignid=web_share) | Mansour | [App Store](https://apps.apple.com/eg/app/%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D9%84%D9%84%D8%B0%D8%A8%D8%A7%D8%A6%D8%AD/id1394266199) |
+| Gazelle | [Play Store](https://play.google.com/store/apps/details?id=com.webstdy.ghazal&pcampaignid=web_share) | Gazelle | [App Store](https://apps.apple.com/sa/app/gazelle/id6502878426) |
 | Gazelle Observer | [Play Store](https://play.google.com/store/apps/details?id=com.webstdy.ghazalobserver&pcampaignid=web_share) | Al-Andalus | [App Store](https://apps.apple.com/us/app/%D8%A7%D9%84%D8%A7%D9%86%D8%AF%D9%84%D8%B3/id6473839184) |
-| Gazelle | [Play Store](https://play.google.com/store/apps/details?id=com.webstdy.ghazal&pcampaignid=web_share) | Mansour | [App Store](https://apps.apple.com/eg/app/%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D9%84%D9%84%D8%B0%D8%A8%D8%A7%D8%A6%D8%AD/id1394266199) |
-| Meter App | [Play Store](https://play.google.com/store/apps/details?id=com.solinovatiion.meter&pcampaignid=web_share) | Noon Cafe | [App Store](https://apps.apple.com/sa/app/noon-cafe/id6470820374) |
+| Meter App | [Play Store](https://play.google.com/store/apps/details?id=com.solinovatiion.meter&pcampaignid=web_share) | Meter App | [App Store](https://apps.apple.com/us/app/meter-app/id6664052882) |
 | Alsaif-Express | [Play Store](https://play.google.com/store/apps/details?id=com.sit.shipping_client) | Alsaif-Express | [App Store](https://apps.apple.com/sa/app/alsaif-express-%D8%A7%D9%84%D8%B3%D9%8A%D9%81-%D8%A7%D9%83%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3/id1638613223) |
 | Burger Nook | [Play Store](https://play.google.com/store/apps/details?id=com.burgernook) | Burger Nook | [App Store](https://apps.apple.com/sa/app/%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D8%AC%D8%B1/id1531327709) |
-| Peek A Bid | [Play Store](https://play.google.com/store/apps/details?id=com.webstdy.peekabid&pcampaignid=web_share) | Peek A Bid | [App Store](https://apps.apple.com/eg/app/peekbid/id6744012253) |
 | Cadeau | [Play Store](https://play.google.com/store/apps/details?id=com.inzox.cadeau&pcampaignid=web_share) | Cadeau | [App Store](https://apps.apple.com/eg/app/cadeau/id6752618099) |
-| Feekl3b | [Play Store](https://play.google.com/store/apps/details?id=com.tocaan.fekle3badnroid&pcampaignid=web_share) | Feekl3b | [App Store](https://apps.apple.com/kz/app/feekl3b/id6743447474?platform=iphone) |
 | Le3bty | [Play Store](https://play.google.com/store/apps/details?id=com.tocaan.le3bty&pcampaignid=web_share) | Le3bty | [App Store](https://apps.apple.com/eg/app/le3bty-%D9%84%D8%B9%D8%A8%D8%AA%D9%8A/id6741868058) |
 | Mustaqil | [Play Store](https://play.google.com/store/apps/details?id=com.tocaan.mustaqil&pcampaignid=web_share) | Mustaqil | [App Store](https://apps.apple.com/eg/app/mustaqil-%D9%85%D8%B3%D8%AA%D9%82%D9%84/id6742258252) |
 
@@ -87,11 +88,11 @@ Experienced Mobile Developer specialized in **Flutter** and **Dart** with **6+ y
 ### Mobile Development
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/jetpack_compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;
 <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/jetpack_compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 
 ### Backend & Cloud
