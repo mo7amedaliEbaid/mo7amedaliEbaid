@@ -39,7 +39,6 @@ Senior Mobile Developer with **6+ years** of experience shipping **25+ productio
 | :---: | :---: | :---: | :---: |
 | Axis Pay | [Play Store](https://play.google.com/store/apps/details?id=com.axispay.consumer.wallet) | Axis Pay | [App Store](https://apps.apple.com/eg/app/id1597753411) |
 | 8Orders | [Play Store](https://play.google.com/store/apps/details?id=com.HadafSolutions.Otlobly) | 8Orders | [App Store](https://apps.apple.com/eg/app/8orders-food-grocery/id1263923913) |
-| CliniDo | [Play Store](https://play.google.com/store/apps/details?id=com.patient.CliniDo.patientandroid) | CliniDo | [App Store](https://apps.apple.com/eg/app/id1494684476) |
 | Juhayna Survey | [Play Store](https://play.google.com/store/apps/details?id=com.juhayna.survey&pcampaignid=web_share) | KN | [App Store](https://apps.apple.com/kh/app/kn/id6443600127) |
 | KN | [Play Store](https://play.google.com/store/apps/details?id=com.alkafaa.alkafaa_user&pcampaignid=web_share) | Land | [App Store](https://apps.apple.com/sa/app/%D8%A7%D8%B1%D8%B6/id6467199870) |
 | AlSari4Cars | [Play Store](https://play.google.com/store/apps/details?id=com.al_sari.cars&pcampaignid=web_share) | AlSari4Cars | [App Store](https://apps.apple.com/sa/app/alsari4cars/id6741610056) |
@@ -61,7 +60,7 @@ Senior Mobile Developer with **6+ years** of experience shipping **25+ productio
 ## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mo7amedaliEbaid&show_icons=true&theme=radical" alt="GitHub Stats" />
+   <img  width="49%" src="https://github-readme-stats-tawny.vercel.app/api?username=mo7amedaliEbaid&show_icons=true&theme=radical" alt="mo7amedaliEbaid" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mo7amedaliEbaid&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
