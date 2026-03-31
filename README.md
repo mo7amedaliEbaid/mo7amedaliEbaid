@@ -25,7 +25,7 @@ Senior Mobile Developer with **6+ years** of experience shipping **25+ productio
   <a href="https://www.linkedin.com/in/mo7amedebaid/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://www.youtube.com/channel/UCcaLYqe9DJGdqexSQSIgs7w" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>&nbsp;
   <a href="https://leetcode.com/mo7amedaliebaid/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>&nbsp;
-  <a href="https://mohamedaliportfolio-mohameds-projects-55b46c5d.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFBF00?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>&nbsp;
+  <a href="https://mohamedaliebaid.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFBF00?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>&nbsp;
   <a href="https://medium.com/@mo7amedaliebaid" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
