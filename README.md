@@ -78,7 +78,13 @@ Senior Mobile Developer with **6+ years** of experience shipping **25+ productio
 
 ---
 
-
+<a href="https://www.credly.com/badges/1075f401-46a1-4662-ba1b-bb9f47b7dc9d/public_url">
+  <img 
+    src="https://images.credly.com/size/680x680/images/5bd2d506-c95c-4766-a5b1-8da62a3a23b2/blob"
+    width="150"
+    alt="Credly Badge"
+  />
+</a>
 
 ## Tech Stack
 
