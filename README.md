@@ -13,8 +13,9 @@
 Senior Mobile Developer with **6+ years** of experience shipping **25+ production apps** across the Play Store and App Store. I build cross-platform apps with **Flutter/Dart** and native apps with **Kotlin/Java** (Android) and **Swift/SwiftUI** (iOS). Currently a **Senior Mobile Engineer at Axis** — a Tiger Global-backed fintech serving **1M+ users** across Android, iOS, and Huawei platforms.
 
 - **Primary Stack** Flutter, Dart, Kotlin, Swift, SwiftUI
+- **Certified** Meta Android Developer · Meta iOS Developer · IBM Flutter Developer
 - **Architecture** Clean Architecture, MVVM, BLoC/Cubit, SOLID, TDD
-- **Tools** Android Studio, Xcode, Firebase, CI/CD, Git
+- **Tools** Android Studio, Xcode, Firebase, CI/CD, Git, GitHub Actions, Fastlane
 - **Reach me at** mo7amedaliebaid@gmail.com
 
 ---
@@ -78,13 +79,17 @@ Senior Mobile Developer with **6+ years** of experience shipping **25+ productio
 
 ---
 
-<a href="https://www.credly.com/badges/1075f401-46a1-4662-ba1b-bb9f47b7dc9d/public_url">
-  <img 
-    src="https://images.credly.com/size/680x680/images/5bd2d506-c95c-4766-a5b1-8da62a3a23b2/blob"
-    width="150"
-    alt="Credly Badge"
-  />
-</a>
+## 🏆 Professional Certifications
+
+<div align="center">
+
+| <a href="https://www.coursera.org/account/accomplishments/specialization/AKT68PWJSPI5"><img src="android_badge.png" width="130" alt="Meta Android Developer" /></a> | <a href="https://www.coursera.org/account/accomplishments/specialization/3916R7YL4FKY"><img src="ios_badge.png" width="130" alt="Meta iOS Developer" /></a> | <a href="https://www.credly.com/badges/571a4019-15ba-4c95-99ff-c67fa6633ec2/public_url"><img src="https://images.credly.com/size/680x680/images/f9744f26-d57b-45cc-b44e-ce974bf5c602/Coursera_20Developing_20Mobile_20Apps_20w_20Flutter_20Spec.png" width="130" alt="IBM Flutter Developer" /></a> | <a href="https://www.credly.com/badges/1075f401-46a1-4662-ba1b-bb9f47b7dc9d/public_url"><img src="https://images.credly.com/size/680x680/images/5bd2d506-c95c-4766-a5b1-8da62a3a23b2/blob" width="130" alt="Google AI Essentials" /></a> |
+|:---:|:---:|:---:|:---:|
+| **Meta Android Developer** | **Meta iOS Developer** | **IBM Flutter Developer** | **Google AI Essentials** |
+
+</div>
+
+---
 
 ## Tech Stack
 
@@ -98,7 +103,8 @@ Senior Mobile Developer with **6+ years** of experience shipping **25+ productio
 <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/jetpack_compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
 ### Backend & Cloud
 <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;
@@ -120,9 +126,13 @@ Senior Mobile Developer with **6+ years** of experience shipping **25+ productio
 ### DevOps & Version Control
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/fastlane-%23e32a0e.svg?style=for-the-badge&logo=fastlane&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />
+<img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
 
 ### Operating Systems
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
